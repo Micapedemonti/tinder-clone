@@ -1,0 +1,25 @@
+.chatPrevisualizacion{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    height: 70px;
+    border-bottom: 1px solid #fafafa;
+}
+.chatPrevisualizacion_detalles{
+    flex:1;
+}
+.chatPrevisualizacion_detalles p {
+   color:grey;
+
+}
+.chatPrevisualizacion_img{
+    margin-right: 20px;
+}
+.chatPrevisualizacion__timestap{
+    color:lightgrey;
+}
+a{
+    text-decoration: none;
+    color: inherit ;
+}
